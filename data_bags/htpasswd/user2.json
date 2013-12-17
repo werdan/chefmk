@@ -1,0 +1,5 @@
+{
+      "id": "user2",
+      "pass": "password2",
+      "nodes" : ["newnode2", "yournode2"]
+ }     
